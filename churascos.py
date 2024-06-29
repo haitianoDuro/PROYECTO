@@ -15,3 +15,4 @@ total5 = total1 + total2 + total3 + total4
 input("Tiene cupon de descuento [Si/No]?")
 cupdesc = total5 / 10 
 print(f"El total a pagar es: {total5-cupdesc} ")
+print("uyy si es lunes")
